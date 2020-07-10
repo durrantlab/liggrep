@@ -1,0 +1,48 @@
+[
+    {
+        "receptorAtom":
+        {
+            "chain": "",
+            "resid": 904,
+            "atomname": "OG"
+        },
+        "ligandSubstructSMARTS": "[#8]",
+        "distance": 2.8
+    },
+    {
+        "receptorAtom":
+        {
+            "chain": "",
+            "resid": 907,
+            "atomname": "CD1"
+        },
+        "ligandSubstructSMARTS": "[#7]",
+        "distance": 4.25
+    },
+    {
+        "receptorAtom":
+        {
+            "chain": "",
+            "resid": 896,
+            "atomname": "CD1"
+        },
+        "ligandSubstructSMARTS": "[#7]",
+        "distance": 5.61
+    },
+    {
+        "coordinate": [-16.229000, 69.665001, 24.282000],
+        "ligandSubstructSMARTS": "[#6]",
+        "distance": 5.4
+    },
+    {
+        "receptorAtom":
+        {
+            "chain": "",
+            "resid": 904,
+            "atomname": "OG"
+        },
+        "ligandSubstructSMARTS": "[#16]O",
+        "distance": 3.59,
+        "exclude": true
+    }
+]
